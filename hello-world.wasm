@@ -1,0 +1,8 @@
+(module
+  (func $main (export "main")
+    (call $console_log (i32.const 1048604))
+  )
+  (func $console_log (import "env" "console_log") (param i32))
+  (memory $0 1 1 shared)
+  (data (i32.const 1048604) "Hello, World!")
+)
