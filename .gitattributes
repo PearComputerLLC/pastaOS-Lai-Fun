@@ -2,3 +2,6 @@
 * text=auto
 .poi filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+Network[[:space:]]Stress[[:space:]]Tester.html filter=lfs diff=lfs merge=lfs -text
+pastaOS[[:space:]]Installer[[:space:]]Maker.html filter=lfs diff=lfs merge=lfs -text
+pastaOS[[:space:]]Lai[[:space:]]Fun.html filter=lfs diff=lfs merge=lfs -text
